@@ -1,0 +1,97 @@
+
+
+.background{
+    background-image: linear-gradient(25deg,#77bfe0,#ffffff,#77bfe0);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+
+.app_logo{
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    /* margin-left: 15px;
+    margin-top: 5px; */
+    
+}
+.ul{
+    list-style: none;
+}
+
+
+.logout_button{
+    
+    font-weight: 500;
+
+}
+
+.movie_theater{
+    width:8vw;
+}
+
+.size_1{
+    color: #005c99;
+    font-weight:500;
+}
+
+.size_5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* margin-left: 150px; */
+    /* margin-top: 30px; */
+    font-weight: 700;
+    font-size: 40px;
+    color: #005c99;
+}
+
+/* for movie & Theater section */
+.movie_theater_div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* margin-left: 110px;
+    margin-top: 30px; */
+
+}
+
+/* for all movie card section */
+.all_movie_card{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* margin-left: 110px;
+    margin-top: 30px; */
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+/* for each movie card */
+.movie_card{
+    width: 270px;
+    
+    
+    /* border: 1px solid #ddd; */
+
+    /* margin-left: 35px; */
+    text-align: center;
+}
+
+/* for each movie card image */
+.movie_card img{
+    
+    width: 230px;
+    height: 300px;
+    display: block;
+    border: 1px solid #000000;
+    
+
+    
+    /* margin-top: 10px; */
+    border-radius: 15px;
+    
+}
+/* .movie_card h3{
+    font-size : 1.2em;
+    margin-top: 10px;
+    color: #333;
+} */
+/* for movie title background transparent */
+

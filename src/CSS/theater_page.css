@@ -1,0 +1,110 @@
+
+
+/* header {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-top:5px ;
+} */
+
+.background{
+    background-image: linear-gradient(25deg,#77bfe0,#ffffff,#77bfe0);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+
+.app_logo{
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    /* margin-left: 15px;
+    margin-top: 5px; */
+    
+}
+.ul{
+    list-style: none;
+    /* display: flex;
+    flex-direction: row; */
+    /* margin-top: 10px; */
+    gap: 30px;
+}
+
+
+.logout_button{
+    /* margin-top: 8px;
+    margin-right: 15px; */
+    font-weight: 500;
+
+}
+
+.movie_theater{
+    width:8vw;
+}
+
+.size_1{
+    color: #005c99;
+    font-weight: 500;
+}
+.size_3{
+    color: #808080;
+    font-size: 13px;
+    /* margin-top: 2px;
+    margin-left: 5px;
+    margin-bottom: 2px; */
+
+}
+
+.size_8{
+    color:#005c99;
+    /* margin-top: 5px;
+    margin-left: 5px; */
+    font-size: 18px;
+    font-weight: 700;
+    
+}
+
+
+.size_5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* margin-left: 150px; */
+    /* margin-top: 30px; */
+    font-weight: 700;
+    font-size: 40px;
+    color: #005c99;
+}
+
+/* for movie & Theater section */
+.movie_theater_div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* margin-left: 110px;
+    margin-top: 30px; */
+
+}
+
+.all_theater{
+    /* margin-left: 150px;
+    margin-top: 30px; */
+    /* display: flex;
+    flex-direction: column; */
+
+}
+
+.theater_card{
+    /* border: 1px solid #808080; */
+    width:88%;
+    border-radius: 5px;
+    margin-bottom: 15px;
+
+}
+
+.button_hover:hover{
+    background-color:  #ccebff;
+
+}
+
+.icon{
+    margin-right: 5px;
+    margin-bottom: 10px;
+    size: 15px;
+}

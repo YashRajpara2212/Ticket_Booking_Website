@@ -1,0 +1,94 @@
+
+
+.background{
+    background-image: linear-gradient(25deg,#77bfe0,#ffffff,#77bfe0);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    height: 100%;
+}
+
+.size_1{
+    color: #005c99;
+    font-weight:500;
+   
+
+}
+
+.size_5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* margin-left: 150px; */
+    /* margin-top: 30px; */
+    font-weight: 700;
+    font-size: 40px;
+    color: #005c99;
+}
+
+.div_border{
+    border: 1px solid;
+    padding: 0;
+}
+.arrow{
+
+    background-color: transparent;
+    border:none ;
+    text-decoration:none ;
+    color:#005c99 ;
+}
+
+
+.size_3{
+    color: #808080;
+    font-size: 13px;
+    font-weight: 500;
+    /* margin-top: 2px;
+    margin-left: 5px;
+    margin-bottom: 2px; */
+
+}
+
+.button1{
+    background-color: transparent;
+    border: 1px solid #005c99;
+    border-radius: 7px;
+    
+}
+
+
+
+ .button1:hover{
+    color: #ffffff;
+    background-color:#005c99;
+}
+
+.select_seat{
+    height: 75vh;
+}
+.seat_no{
+    width: 46.5px;
+}
+
+.screen{
+    margin-top: 40px;
+    border: 5px solid #808080;
+    padding: 0;
+}
+
+
+  
+ 
+  .btn-success {
+    background-color: #005c99; 
+    border-color: #005c99;
+    color: white;
+  }
+  
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+    color: white;
+  }
+  
+  button:disabled {
+    cursor: not-allowed;
+  }

@@ -1,0 +1,212 @@
+
+
+.background{
+    background-image: linear-gradient(25deg,#77bfe0,#ffffff,#77bfe0);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+
+.app_logo{
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    /* margin-left: 15px;
+    margin-top: 5px; */
+    
+}
+.ul{
+    list-style: none;
+}
+
+
+.logout_button{
+    
+    font-weight: 500;
+
+}
+
+
+.size_1{
+    color: #005c99;
+    font-weight:500;
+   
+
+}
+.size_5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* margin-left: 150px; */
+    /* margin-top: 30px; */
+    font-weight: 700;
+    font-size: 40px;
+    color: #005c99;
+}
+
+
+.size_3{
+    color: #808080;
+    font-size: 13px;
+    font-weight: 500;
+    /* margin-top: 2px;
+    margin-left: 5px;
+    margin-bottom: 2px; */
+
+}
+
+.back{
+    color: #808080;
+    font-weight:500;
+    border-color: transparent;
+    
+   
+
+}
+
+.left_div{
+    /* width: 70%; */
+    /* height: 100%; */
+    /* margin-left: 150px; */
+}
+
+a{
+    text-decoration: none;
+    color: #808080;
+    margin-right: 10px;
+}
+
+.all_date_day{
+    /* display: flex; */
+    max-width: 85%;
+    /* flex-wrap: wrap; */
+    /* gap: 15px; */
+   
+}
+
+.date{
+    /* padding: 10px;
+    margin-left: 5px;
+    border: 1px solid #808080;
+    border-radius: 5px;
+    text-align: center; */
+
+    
+}
+
+.selected{
+    color:#ffffff;
+    background-color: #005c99;
+}
+.button:hover{
+    background-color: #77bfe0;
+    border-color: #77bfe0;
+
+}
+
+/* .button :active{
+    background-color:#005c99;
+} */
+.time:hover{
+    background-color: #77bfe0;
+    border-color: #77bfe0;
+
+}
+
+/* .theater_name:hover{
+    background-color: #77bfe0;
+    border-color: #77bfe0;
+} */
+
+.size_6{
+    color: #005c99;
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.right_div{
+    /* width: 30%; */
+    /* height: 100%; */
+    /* display: flex;
+    flex-direction: column; */
+
+}
+
+.movie_image img{
+
+    width: 90%;
+    height : 35vh;
+    /* height: auto; */
+    /* margin-top: 10px; */
+    border-radius: 15px;
+}
+
+.ticket_description{
+    width: 90%;
+    /* padding: 20px; */
+    padding-left: 50px;
+    /* margin-top: 10px; */
+    border-radius: 15px;
+    /* margin-left: 0; */
+    border: 1px solid #005c99 ;
+}
+
+.movie_description{
+    width: 90%;
+    margin-left: 0;
+    /* margin-top: 10px;
+    margin-bottom: 10px; */
+}
+
+.size_3{
+    color: #808080;
+    font-size: 13px;
+    font-weight:500;
+    /* margin-top: 2px;
+    margin-left: 5px;
+    margin-bottom: 2px; */
+
+}
+
+
+.size_7{
+    color: #005c99;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.size_10{
+    color: #808080;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.ticket_description button{
+    width: 14vw;
+    /* margin-right: 0; */
+}
+
+.all_theater_name{
+    /* display: flex;
+    flex-wrap: wrap; */
+    max-width: 85%;
+   
+
+}
+
+.theater_name{
+    /* margin: 10px; */
+}
+
+/* .theater_name button:hover{
+    background-color: #005c99;
+} */
+
+.all_time{
+    /* display: flex;
+    flex-wrap: wrap; */
+    max-width: 80%;
+
+}
+
+.time{
+    /* margin: 10px; */
+}

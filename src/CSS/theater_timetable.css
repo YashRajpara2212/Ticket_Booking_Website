@@ -1,0 +1,149 @@
+
+
+.background{
+    background-image: linear-gradient(25deg,#77bfe0,#ffffff,#77bfe0);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+
+.app_logo{
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    /* margin-left: 15px;
+    margin-top: 5px; */
+    
+}
+.ul{
+    list-style: none;
+}
+
+
+.logout_button{
+    
+    font-weight: 500;
+
+}
+
+
+.size_1{
+    color: #005c99;
+    font-weight:500;
+   
+
+}
+.size_5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* margin-left: 150px; */
+    /* margin-top: 30px; */
+    font-weight: 700;
+    font-size: 40px;
+    color: #005c99;
+}
+
+
+.size_3{
+    color: #808080;
+    font-size: 13px;
+    font-weight: 500;
+    /* margin-top: 2px;
+    margin-left: 5px;
+    margin-bottom: 2px; */
+
+}
+
+.arrow{
+
+    background-color: transparent;
+    border:none ;
+    text-decoration:none ;
+    color:#005c99 ;
+}
+
+
+
+
+
+.left_right_arrow{
+    
+    margin-top: auto; 
+    margin-bottom: auto; 
+}
+
+.size_8{
+    
+    /* margin-top: 5px;
+    margin-left: 5px; */
+    font-size: 18px;
+    font-weight: 700;
+    color: #005c99;
+    
+}
+
+.all_movie{
+    /* margin-left: 150px;
+    margin-top: 30px; */
+    /* display: flex;
+    flex-direction: column; */
+}
+.movie{
+    /* display: flex; */
+}
+.movie_info{
+    /* display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+    width: 75%; */
+    
+}
+
+.book_now a:hover{
+    background-color: #ccebff;
+
+}
+
+.book_now:active{
+    background-color: #005c99;
+    color: #ffffff;
+}
+
+/* book now  a tag css */
+a{
+    text-decoration: none;
+    color:#005c99;
+    border: 1px solid #005c99;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.movie_type{
+    /* display: flex;
+    margin-left: 5px;
+    gap: 8px; */
+    
+}
+
+/* .all_movie_time{
+    display: flex;
+    gap: 20px;
+} */
+
+.movie_time{
+    /* border: 1px solid #808080; */
+    /* border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px; */
+}
+.movie_time:hover{
+    background-color:#ccebff ;
+}
+
+.movie_time:active{
+    background-color: #005c99;
+}
+
+/* .mvie_time :focus{
+    background-color: #005c99;
+} */
